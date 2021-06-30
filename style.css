@@ -1,0 +1,78 @@
+body {
+  display: grid;
+  text-align: center;
+  justify-items: center;
+  grid-template-columns: 1fr;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table > table-striped {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.cnames {
+  background-color: #00ffff;
+  text-align-last: center;
+  color: #ffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+td {
+  text-align: center;
+  padding: 8px;
+  border: 2px solid #000000;
+}
+
+.form {
+  text-align: center;
+  width: 65%;
+  padding: 8px 15px;
+  margin: 10px 50px 10px 50px;
+  left: auto;
+  display: inline-block;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.logout {
+  text-align: center;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+}
+
+button {
+  border-radius: 5px;
+}
+.back a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #000000;
+}
+.back:hover {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: #00ffff;
+}
+
+.btn-delete:hover,
+.btn-download:hover {
+  background-color: #00ffff;
+}
+.btn-login {
+  margin-top: 15px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+.btn-login:hover,
+.subDir:hover,
+.submitF:hover {
+  background-color: #00ffff;
+}
+
+.submitF {
+  border-radius: 5px;
+}
