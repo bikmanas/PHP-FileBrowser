@@ -17,4 +17,4 @@ Project includes posibility to login, see content (files and directories), creat
 
 ## Authors
 
-Povilas [Github](https://github.com/bikmanas)[LinkedIn](https://www.linkedin.com/in/povilas-bikmanas-7660a991/)
+Povilas [Github](https://github.com/bikmanas) [LinkedIn](https://www.linkedin.com/in/povilas-bikmanas-7660a991/)
