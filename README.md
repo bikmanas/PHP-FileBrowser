@@ -1,6 +1,6 @@
 # PHP - FileBrowser
 
-This is only for learning purposes only. 
+This is for learning purposes only. 
 Project includes posibility to login, see content (files and directories), creating new directories and uploading files such as images. Additional features contain deletion and dowload options for files.
 
 ## Project features
